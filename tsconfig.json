@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "declaration": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+  },
+}
